@@ -7,8 +7,8 @@ import shutil
 count = 0
 max_count = 50
 
-cams_file = os.path.expanduser("/cams.json")
-output_dir = os.path.expanduser("/timelapse")
+cams_file = os.path.expanduser("./cams.json")
+output_dir = os.path.expanduser("./timelapse")
 final_destination = os.path.expanduser("~/wv-cam-ssr/dist/client/timelapse")
 
 # Load cam data
