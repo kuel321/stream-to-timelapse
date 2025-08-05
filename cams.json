@@ -1,0 +1,735 @@
+[
+ {
+    "county": "Kanawha",
+    "cams": [
+      {
+        "id": "CAM096",
+        "name": "I-64 Charleston",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM096/chunklist.m3u8"
+      }, {
+        "id": "CAM137",
+        "name": "I-64 46",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM137/chunklist_w202616054.m3u8",
+        "lat": 38.427584, 
+        "long": -81.818300
+      }, {
+        "id": "CAM136",
+        "name": "I-64 MM 46.6 ",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM136/chunklist_w978859791.m3u8",
+        "lat": 38.421111, 
+        "long": -81.805500
+      },{
+        "id": "CAM022",
+        "name": "I-64 47 Cross Lanes",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM022/playlist.m3u8",
+        "lat": 38.413568, 
+        "long": -81.795872
+      },{
+        "id": "CAM097",
+        "name": "I-64 50 Institute",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM097/chunklist_w63824058.m3u8",
+        "lat": 38.386626, 
+        "long": -81.768012
+      },{
+        "id": "CAM112",
+        "name": "I-64 55",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM122/chunklist_w211097088.m3u8"
+      },{
+        "id": "CAM009",
+        "name": "I-64 53 Dunbar",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM009/chunklist_w1566276428.m3u8",
+        "lat": 38.361681, 
+        "long": -81.736453
+      },{
+        "id": "CAM013",
+        "name": "I-64 55.2 Montrose I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM013/chunklist_w825474820.m3u8",
+        "lat": 38.364601, 
+        "long": -81.688669
+      },{
+        "id": "CAM048",
+        "name": "I-64 MM 56.4",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM048/chunklist_w62661900.m3u8",
+        "lat": 38.363338, 
+        "long": -81.671117
+      },{
+        "id": "CAM014",
+        "name": "I-64 MM 58 Oakwood I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM014/chunklist_w1495981143.m3u8",
+        "lat": 38.354953, 
+        "long": -81.651390
+      },{
+        "id": "CAM121",
+        "name": "US-119 to I-64 I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM121/chunklist_w306741019.m3u8",
+        "lat": 38.349244, 
+        "long": -81.650400
+      },{
+        "id": "CAM063",
+        "name": "US-119 Oakwood Rd",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM063/chunklist_w1798843407.m3u8",
+        "lat": 38.341615, 
+        "long": -81.663583
+      },{
+        "id": "CAM113",
+        "name": "US-119 Eureka Rd",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM113/chunklist_w210438234.m3u8",
+        "lat": 38.340290, 
+        "long": -81.685076
+      },{
+        "id": "CAM057",
+        "name": "US-119 Trace Fork",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM057/chunklist_w1926032132.m3u8",
+        "lat": 38.332418, 
+        "long": -81.710767
+      },{
+        "id": "CAM054",
+        "name": "US-119 Southridge",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM054/chunklist_w562133572.m3u8",
+        "lat": 38.320040, 
+        "long": -81.717871
+      },{
+        "id": "CAM038",
+        "name": "I-64 58.2 Lotto Bld 1",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM038/chunklist_w1837394468.m3u8",
+        "lat": 38.359262, 
+        "long": -81.635585
+      },{
+        "id": "CAM042",
+        "name": "I-64 58.2 Lotto Bld 2",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM038/chunklist_w1837394468.m3u8",
+        "lat": 38.358774, 
+        "long": -81.633354
+      },{
+        "id": "CAM089",
+        "name": "I-64 58.5 Bigley I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM089/chunklist_w1703783267.m3u8",
+        "lat": 38.360221, 
+        "long": -81.630865
+      },{
+        "id": "CAM079",
+        "name": "I-77 100",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM079/chunklist_w1181940805.m3u8",
+        "lat": 38.351755, 
+        "long": -81.626083
+      },{
+        "id": "CAM008",
+        "name": "I-77 99 Greenbrier Exit",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM008/chunklist_w1842389318.m3u8",
+        "lat": 38.339216, 
+        "long": -81.609755
+      },{
+        "id": "CAM035",
+        "name": "I-77 98 35th St",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM081/chunklist_w1166292477.m3u8",
+        "lat": 38.334370,
+        "long": -81.598183 
+      },{
+        "id": "CAM081",
+        "name": "I-77/I64 95 US 60 I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM053/chunklist_w514301887.m3u8",
+        "lat": 38.317242, 
+        "long": -81.556619
+      },{
+        "id": "CAM112",
+        "name": "I-77 95 McCorkle",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM112/chunklist_w499650931.m3u8",
+        "lat": 38.308696, 
+        "long": -81.566044
+      },{
+        "id": "CAM052",
+        "name": "I-77 94",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM052/chunklist_w682520929.m3u8",
+        "lat": 38.302452, 
+        "long": -81.565936
+      },{
+        "id": "CAM016",
+        "name": "I-77 86.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM016/chunklist_w1543021517.m3u8",
+        "lat": 38.210694, 
+        "long": -81.524344
+      },{
+        "id": "CAM090",
+        "name": "US-60 Chelyan",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM090/chunklist_w1410722762.m3u8",
+        "lat": 38.196590, 
+        "long": -81.497705
+      },{
+        "id": "CAM090",
+        "name": "I-77 79",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM049/chunklist_w1365953490.m3u8",
+        "lat": 38.152173, 
+        "long": -81.447087
+      },{
+        "id": "CAM111",
+        "name": "I-77 74.0",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM111/chunklist_w1556774020.m3u8",
+        "lat": 38.129103, 
+        "long": -81.388271
+      }
+    ]
+  },{
+    "county": "Berkeley",
+    "cams": [
+      {
+        "id": "CAM117",
+        "name": "I-81 0.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM117/chunklist_w1378758732.m3u8",
+        "lat": 39.299496, 
+        "long": -78.079507
+      },{
+        "id": "CAM051",
+        "name": "I-81 8",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM051/chunklist_w1310525975.m3u8",
+        "lat": 39.402042, 
+        "long": -78.027080
+      },{
+        "id": "CAM056",
+        "name": "I-81 9",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM056/chunklist_w184010508.m3u8",
+        "lat": 39.420664, 
+        "long": -78.006320
+      },{
+        "id": "CAM029",
+        "name": "I-81 13 King Street",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM029/chunklist_w2044612829.m3u8",
+        "lat": 39.443619, 
+        "long": -77.988524
+      },{
+        "id": "CAM026",
+        "name": "I-81 20",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM026/chunklist_w2120183047.m3u8",
+        "lat": 39.542873, 
+        "long": -77.913564
+      },{
+        "id": "CAM059",
+        "name": "I-81 23",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM059/chunklist_w186121368.m3u8",
+        "lat": 39.580694, 
+        "long": -77.874962
+      },{
+        "id": "CAM002",
+        "name": "I-81 25 Rest Area",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM002/chunklist_w1010201527.m3u8",
+        "lat": 39.585657, 
+        "long": -77.847740
+      }
+   
+    ]
+  },
+  {
+    "county": "Cabell",
+    "cams": [
+      {
+        "id": "CAM012",
+        "name": "I-64 28 Milton I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM012/chunklist_w1681826203.m3u8",
+        "lat": 38.438255, 
+        "long": -82.121821
+      },
+      {
+        "id": "CAM045",
+        "name": "I-64 20 Barbousville I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM045/chunklist_w862725466.m3u8"
+      },
+       {
+        "id": "CAM091",
+        "name": "I-64 18.6",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM091/chunklist_w168755277.m3u8"
+      },
+{
+        "id": "CAM135",
+        "name": "I-64 158",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM135/chunklist_w1827794260.m3u8"
+      },
+    {
+        "id": "CAM135",
+        "name": "I-64 15 29th St exit(RT 60)",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM036/chunklist_w1093066670.m3u8"
+      },
+      {
+        "id": "CAM011",
+        "name": "I-64 11 Hal Greer I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM011/chunklist_w711511854.m3u8"
+      },
+          {
+        "id": "CAM033",
+        "name": "I-64 6.6",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM033/chunklist_w1424964244.m3u8"
+      },
+      {
+        "id": "CAM123",
+        "name": "I-64 Huntington",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM123/chunklist.m3u8"
+      }
+    ]
+  },{"county": "Jackson",
+  "cams": [
+    {
+      "id": "CAM096",
+      "name": "I-77 130",
+      "stream": "https://sfstest.roadsummary.com/rtplive/CAM096/chunklist_w2003221677.m3u8",
+      "lat": 38.734166, 
+      "long": -81.663241
+    },
+     {
+      "id": "CAM084",
+      "name": "I-77 148",
+      "stream": "https://sfstest.roadsummary.com/rtplive/CAM084/chunklist_w347562741.m3u8",
+      "lat": 38.949326, 
+      "long": -81.703891
+    }
+  ]},{
+    "county": "Putnam",
+    "cams": [
+    
+      {
+        "id": "CAM015",
+        "name": "39 Teays Valley I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM015/chunklist_w579269615.m3u8",
+        "lat": 38.456358,
+        "long": -81.935868
+
+
+      },{
+        "id": "CAM138",
+        "name": "US-35 Shamrock Ln",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM138/chunklist_w365615660.m3u8",
+        "lat": 38.579793, 
+        "long": -82.017641
+
+
+      }, 
+      
+      {
+        "id": "CAM085",
+        "name": "WV-34 I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM085/chunklist_w196811299.m3u8"
+      },
+       {
+        "id": "CAM115",
+        "name": "I-64 43",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM115/chunklist_w1445141461.m3u8",
+        "lat": 38.456039, 
+        "long": -81.883379
+      },{
+        "id": "CAM062",
+        "name": "I-64 44 St. Albans",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM062/chunklist_w1166697797.m3u8",
+        "lat": 38.448240, 
+        "long": -81.848263
+      },{
+        "id": "CAM027",
+        "name": "I-64 45 Nitro",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM027/chunklist_w1613117654.m3u8",
+        "lat": 38.440682, 
+        "long": -81.832973
+      }
+    ]
+  }, 
+  {
+    "county": "Mason",
+    "cams": [
+      {
+        "id": "CAM124",
+        "name": "I-64 Mason",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM124/chunklist.m3u8"
+      }
+    ]
+  },{
+    "county": "Boone",
+    "cams": [
+      {
+        "id": "CAM100",
+        "name": "US-119 Frye Dr",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM100/chunklist_w1340410389.m3u8",
+        "lat": 37.888704, 
+        "long": -82.049654
+      }
+    ]
+  },{
+    "county": "Mineral Wells",
+    "cams": [
+      {
+        "id": "CAM043",
+        "name": "US-50 US-220",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM043/chunklist_w664796538.m3u8",
+        "lat": 39.362361, 
+        "long": -79.004860
+      }
+    ]
+  },{
+    "county": "Grant",
+    "cams": [
+      {
+        "id": "CAM037",
+        "name": "WV-48 Communications Dr",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM037/chunklist_w744396417.m3u8",
+        "lat": 39.216458, 
+        "long": -79.211746
+      }
+    ]
+  },{
+    "county": "Tucker",
+    "cams": [
+      {
+        "id": "CAM018",
+        "name": "US-219 The Park and Ride",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM018/chunklist_w399563722.m3u8",
+        "lat": 39.146900, 
+        "long": -79.574245
+      }
+    ]
+  },{
+    "county": "Preston",
+    "cams": [
+      {
+        "id": "CAM020",
+        "name": "I-68 29.4 Hazelton",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM020/chunklist_w2078170445.m3u8",
+        "lat": 39.658048, 
+        "long": -79.528849
+      }
+    ]
+  },{
+    "county": "Harrison",
+    "cams": [
+      {
+        "id": "CAM001",
+        "name": "US-50 75.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM001/chunklist_w1907528473.m3u8",
+        "lat": 39.285871, 
+        "long": -80.384345
+      }
+    ]
+  },{
+    "county": "Wood",
+    "cams": [
+      {
+        "id": "CAM077",
+        "name": "I-77 172 Mineral Wells I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM077/chunklist_w1216755954.m3u8",
+        "lat": 39.189125, 
+        "long": -81.529734
+      },{
+        "id": "CAM078",
+        "name": "I-77 176 US-50 I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM078/chunklist_w1018002667.m3u8",
+        "lat": 39.267629, 
+        "long": -81.499423
+      },{
+        "id": "CAM131",
+        "name": "US-50 RT 47",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM131/chunklist_w303935094.m3u8",
+        "lat": 39.256869, 
+        "long": -81.533372
+      },{
+        "id": "CAM128",
+        "name": "US-50 6.5 Division St",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM129/chunklist_w1077685178.m3u8",
+        "lat": 39.257944, 
+        "long": -81.556032
+      }
+      
+    ]
+  },{
+    "county": "Ohio",
+    "cams": [
+      {
+        "id": "CAM001",
+        "name": "US-50 75.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM001/chunklist_w1907528473.m3u8",
+        "lat": 39.285871, 
+        "long": -80.384345
+      },{
+        "id": "CAM070",
+        "name": "I-70 1 US-250",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM070/chunklist_w1246530667.m3u8",
+        "lat": 40.074575, 
+        "long": -80.704156
+      },{
+        "id": "CAM114",
+        "name": "I-70 2 Washington Ave",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM114/chunklist_w1680896215.m3u8",
+        "lat": 40.066891, 
+        "long": -80.691024 
+      },{
+        "id": "CAM123",
+        "name": "I-470 1.8",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM123/chunklist_w1590476585.m3u8",
+        "lat": 40.050007, 
+        "long": -80.696775
+      },{
+        "id": "CAM118",
+        "name": "I-470 4 I70 Split",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM118/chunklist_w1193269917.m3u8",
+        "lat": 40.049547, 
+        "long": -80.664245
+      },{
+        "id": "CAM068",
+        "name": "I-79 7",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM068/chunklist_w158230229.m3u8",
+        "lat": 40.044718, 
+        "long": -80.620772
+      },{
+        "id": "CAM017",
+        "name": "I-70 7.5 2 Mile Hill",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM017/chunklist_w1944787842.m3u8",
+        "lat": 40.043830, 
+        "long": -80.617101
+      },{
+        "id": "CAM035",
+        "name": "I-70 11 Dallas Pike",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM035/chunklist_w449163791.m3u8",
+        "lat": 40.066204, 
+        "long": -80.569933
+      }
+      
+    ]
+  },{
+    "county": "Wetzel",
+    "cams": [
+      {
+        "id": "CAM125",
+        "name": "I-70 5 Wheeling Tunnel",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM125/chunklist_w1976452732.m3u8",
+        "lat": 40.072933, 
+        "long": -80.724927
+      }
+    ]
+  },{
+    "county": "Monongalia",
+    "cams": [
+      {
+        "id": "CAM025",
+        "name": "WV-43 Goodwin Hill Road",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM025/chunklist_w1590587740.m3u8",
+        "lat": 39.687539, 
+        "long": -79.845554
+      }, {
+        "id": "CAM067",
+        "name": "WV-705 Stewartstown",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM067/chunklist_w312520680.m3u8",
+        "lat": 39.652827, 
+        "long": -79.937015 
+      },{
+        "id": "CAM095",
+        "name": "WV-705 Mileground US-119",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM095/chunklist_w75922301.m3u8",
+        "lat": 39.642306, 
+        "long": -79.932439
+      },{
+        "id": "CAM066",
+        "name": "University Dr/Westover Bridge",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM066/chunklist_w712900167.m3u8",
+        "lat": 39.629576, 
+        "long": -79.959064
+      },{
+        "id": "CAM007",
+        "name": "WV-705 Patteson Drive",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM007/chunklist_w455083603.m3u8",
+        "lat": 39.650651, 
+        "long": -79.981062
+      },{
+        "id": "CAM005",
+        "name": "Van Voorhis Elmer Prince",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM005/chunklist_w315597739.m3u8",
+        "lat": 39.649565, 
+        "long": -79.960711
+      },{
+        "id": "CAM064",
+        "name": "Chestnut Ridge/Pineview",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM064/chunklist_w916558164.m3u8",
+        "lat": 39.658120, 
+        "long": -79.955348
+      },{
+        "id": "CAM006",
+        "name": "CWV7 CRT 19/24",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM006/chunklist_w2069741254.m3u8",
+        "lat": 39.659619, 
+        "long": -80.000367
+      },{
+        "id": "CAM116",
+        "name": "I-79 153",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM116/chunklist_w881620409.m3u8",
+        "lat": 39.639929, 
+        "long": -80.003179
+      },{
+        "id": "CAM065",
+        "name": "I-68 1 US-119",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM065/chunklist_w1877694824.m3u8",
+        "lat": 39.585322, 
+        "long": -79.954891
+      },{
+        "id": "CAM092",
+        "name": "I-79 .3 I-68 I/C - A",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM092/chunklist_w221737709.m3u8",
+        "lat": 39.579978, 
+        "long": -79.969195
+      },{
+        "id": "CAM093",
+        "name": "I-79 .4 I-68 I/C - B",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM093/chunklist_w639378069.m3u8",
+        "lat": 39.582418, 
+        "long": -79.979295
+      },{
+        "id": "CAM094",
+        "name": "I-79 .6 I-68 I/C - C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM094/chunklist_w1337792543.m3u8",
+        "lat": 39.574129, 
+        "long": -79.976729
+      }
+     
+      
+    ]
+  },{
+    "county": "Jefferson",
+    "cams": [
+      {
+        "id": "CAM119",
+        "name": "WV-9 65.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM119/chunklist_w293976048.m3u8",
+        "lat": 39.313682, 
+        "long": -77.845049
+      },{
+        "id": "CAM098",
+        "name": "US-340 John Adams Link Bridge",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM098/chunklist_w1800709817.m3u8",
+        "lat": 39.281136, 
+        "long": -77.839385
+      },{
+        "id": "CAM099",
+        "name": "US-340 WV-230",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM099/chunklist_w267536348.m3u8",
+        "lat": 39.313550, 
+        "long": -77.792521
+      },{
+        "id": "CAM105",
+        "name": "WV-9 Chestnut Hill",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM105/chunklist_w217093946.m3u8",
+        "lat": 39.262728, 
+        "long": -77.764783
+      }
+     
+    ]
+  },{
+    "county": "Fayetteville",
+    "cams": [
+      {
+        "id": "CAM019",
+        "name": "I-77 66",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM019/playlist.m3u8",
+        "lat": 38.026454, 
+        "long": -81.355094
+      },{
+        "id": "CAM106",
+        "name": "I-77 58.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM106/chunklist_w1496211075.m3u8",
+        "lat": 37.965825, 
+        "long": -81.271392
+      },{
+        "id": "CAM039",
+        "name": "US-19 Glen Jean I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM039/chunklist_w85273549.m3u8",
+        "lat": 37.922691, 
+        "long": -81.159165
+      },{
+        "id": "CAM046",
+        "name": "US-19 New River Gorge Bridge",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM046/chunklist_w2078512250.m3u8",
+        "lat": 38.067939, 
+        "long": -81.084416
+      }
+    ]
+  },{
+    "county": "Raleigh",
+    "cams": [
+      {
+        "id": "CAM041",
+        "name": "I-77 48 North Beckley I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM041/chunklist_w1668309896.m3u8",
+        "lat": 37.837042, 
+        "long": -81.214387
+      },{
+        "id": "CAM075",
+        "name": "I-77 44.0",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM075/chunklist_w1339733941.m3u8",
+        "lat": 37.793969, 
+        "long": -81.217195
+      },{
+        "id": "CAM050",
+        "name": "I-77 39",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM050/chunklist_w1829486365.m3u8",
+        "lat": 37.729403, 
+        "long": -81.194101
+      },{
+        "id": "CAM109",
+        "name": "I-77 26.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM109/chunklist_w740307937.m3u8",
+        "lat": 37.582265, 
+        "long": -81.119219
+      },{
+        "id": "CAM082",
+        "name": "I-64 124",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM082/chunklist_w947239261.m3u8",
+        "lat": 37.763480, 
+        "long": -81.149061
+      },{
+        "id": "CAM040",
+        "name": "US-19 Appalachian Heights Road",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM040/chunklist_w324487194.m3u8",
+        "lat": 37.857885, 
+        "long": -81.188186 
+      }
+    ]
+  },{
+    "county": "Mercer",
+    "cams": [
+      {
+        "id": "CAM107",
+        "name": "I-77 14.0",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM107/chunklist_w4075739.m3u8",
+        "lat": 37.408373, 
+        "long": -81.060885
+      },{
+        "id": "CAM108",
+        "name": "I-77 12.5",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM108/chunklist_w529011102.m3u8",
+        "lat": 37.393859, 
+        "long": -81.060170
+      },{
+        "id": "CAM061",
+        "name": "I-77 9",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM061/chunklist_w82725032.m3u8",
+        "lat": 37.363096, 
+        "long": -81.048392
+      },{
+        "id": "CAM088",
+        "name": "US-460 16",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM088/chunklist_w1648355613.m3u8",
+        "lat": 37.363808,  
+        "long": -81.042925
+      },{
+        "id": "CAM124",
+        "name": "US-460 Ambrose",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM124/chunklist_w758546752.m3u8",
+        "lat": 37.362268, 
+        "long": -81.053895
+      },{
+        "id": "CAM130",
+        "name": "I-77 1 East River Mountain Tunnel",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM130/chunklist_w148105797.m3u8",
+        "lat": 37.283865, 
+        "long": -81.125297
+      },{
+        "id": "CAM034",
+        "name": "US-460 1 US 52 I/C",
+        "stream": "https://sfstest.roadsummary.com/rtplive/CAM034/chunklist_w2089467342.m3u8",
+        "lat": 37.273309, 
+        "long": -81.163353
+      }
+      
+    ]
+  }
+  
+]
